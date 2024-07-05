@@ -117,4 +117,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-Project Link: [https://github.com/your-username/python-dsa-syllabus](https://github.com/your-username/python-dsa-syllabus)
