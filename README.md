@@ -97,7 +97,7 @@ This repository contains the syllabus and code implementations for various data 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/python-dsa-syllabus.git
+   git clone [https://github.com/UniversityOfEmergingTechnology/dsa-python.git](https://github.com/UniversityOfEmergingTechnology/dsa-python.git)
    ```
 2. Navigate to the project directory:
    ```sh
